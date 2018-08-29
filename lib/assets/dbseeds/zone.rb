@@ -1,0 +1,7 @@
+Zone.create(lat:34.991434, lon:138.383964, place:'Shizuoka')
+Zone.create(lat:34.87686, lon:138.318962, place:'Yaizu')
+Zone.create(lat:34.757676, lon:138.083868, place:'Kikugawa')
+Zone.create(lat:34.779035, lon:138.000447, place:'Kakegawa')
+Zone.create(lat:34.755896, lon:137.925694, place:'Fukuroi')
+Zone.create(lat:34.72659, lon:137.852879, place:'Iwata')
+Zone.create(lat:34.721637, lon:137.716853, place:'Hamamatsu')

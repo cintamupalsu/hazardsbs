@@ -1,0 +1,1 @@
+Anchor.create(name:"Shizuoka Prefecture", llat:34.589167, llon:137.398333, ncols:1898, nrows:491, cellsize:0.0008333333333333, adj_lat:0, adj_lon:0)
