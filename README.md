@@ -1,24 +1,7 @@
+Earthquake sometimes follows with Tsunami, these two kinds of disasters are devastated and allow us only little spare time to do some preparation to prevent these disaster harms the human life. 
+In this application for the first time, we would like to focus on providing some information to prevent the Tsunami strike by using a smartphone to guide the user move to a safe place by following the advised path. 
+To determine the path, we use some open source data such as Digital Elevation Map(DEM) and Open Street Map (OSM). 
+Using Manning equations, we do some Tsunami simulation. 
+Due to the robustness of the Manning equation, we also do the rain simulation which causes a flood and landslide. 
+To this, we also add another two features to our application to prevent the flood and landslide disasters too.
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Welcome to your Rails project on Cloud9 IDE!
-
-To get started, just do the following:
-
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://HOSTNAME/).
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
